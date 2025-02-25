@@ -18,5 +18,8 @@
 
 ![image](https://github.com/user-attachments/assets/234b3dd8-7cd5-4f53-817a-65d8ef305772)
 
+**Access Current User**
+1. To get information about the current user, use the @salesforce/user scoped module.
 
+ ![image](https://github.com/user-attachments/assets/bcfc8f5e-24d2-47e1-a796-103316f2f5c1)
 
