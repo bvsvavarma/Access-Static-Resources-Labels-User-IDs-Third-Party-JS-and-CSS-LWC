@@ -7,12 +7,16 @@
 
 ![image](https://github.com/user-attachments/assets/eb04e7c2-4223-4270-b1ea-b62b8f0801d0)
 
-Access Content Asset Files
+**Access Content Asset Files**
 1. Import content asset files from the @salesforce/contentAssetUrl scoped module.
 
 ![image](https://github.com/user-attachments/assets/5ec127a1-3928-4749-9933-968221b036d3)
 
+**Access Labels**
+1. Import labels from the @salesforce/label scope module.
+2. Use custom labels to create multilingual applications that present information (help text or error messages) in users native language.
 
+![image](https://github.com/user-attachments/assets/234b3dd8-7cd5-4f53-817a-65d8ef305772)
 
 
 
