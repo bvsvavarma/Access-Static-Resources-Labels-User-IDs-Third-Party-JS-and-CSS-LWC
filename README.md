@@ -7,3 +7,12 @@
 
 ![image](https://github.com/user-attachments/assets/eb04e7c2-4223-4270-b1ea-b62b8f0801d0)
 
+Access Content Asset Files
+1. Import content asset files from the @salesforce/contentAssetUrl scoped module.
+
+![image](https://github.com/user-attachments/assets/5ec127a1-3928-4749-9933-968221b036d3)
+
+
+
+
+
