@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>greeting</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>greeting</shortDescription>
+        <value>Hello Welcome to LWC Custom Label</value>
+    </labels>
+    <labels>
+        <fullName>salesforcePlatform</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>salesforcePlatform</shortDescription>
+        <value>Salesforce Platform allowed to do customization on Salesfore.</value>
+    </labels>
+</CustomLabels>
