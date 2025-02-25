@@ -29,3 +29,13 @@
 
 ![image](https://github.com/user-attachments/assets/858ca8c6-f391-47a7-8659-cb7cbc3ba057)
    
+**Platform Resource Loader**
+1. To import a 3rd party JS or CSS library, use the platformResourceLoader module.
+2. Download the JS or CSS files from the 3rd party library's site.
+3. Upload the library to your Salesforce organization as a static resource, which is a Lightning Security requirement.
+4. In a component's JS file:
+   i. Import the static resource
+       import myResourceName from '@salesforce/resourceUrl/myResourceName';
+   ii. Import methods, from the platformResourceLoader module.
+        import {loadStyle, loadScrit} from 'lightning/platformResourceLoader';
+6. Load the library and call its functions in a promise then() method.
