@@ -23,3 +23,9 @@
 
  ![image](https://github.com/user-attachments/assets/bcfc8f5e-24d2-47e1-a796-103316f2f5c1)
 
+**Check Permissions**
+1. Import Salesforce permission from the @salesforce/userPermission and @salesforce/customPermission scoped modules.
+2. Customize a component's behaviour based on the permissions of the context user.
+
+![image](https://github.com/user-attachments/assets/858ca8c6-f391-47a7-8659-cb7cbc3ba057)
+   
